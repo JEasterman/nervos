@@ -1,2 +1,6 @@
 .DS_Store
-ckb*
+ckb-indexer
+ckb_v0.43.1
+godwoken-examples
+
+privkey.txt
